@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Stein UserScript
 // @namespace    https://theizrael.com/js/
-// @version      0.7
+// @version      0.9
 // @description  Stein World UserScript!
 // @author       Theizrael
 // @homepage     https://theizrael.com/js/stein.user.js
