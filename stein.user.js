@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Stein UserScript
-// @namespace    https://theizrael.com/js/
+// @namespace    https://github.com/theizrael/Stein-UserScript-JS/
 // @version      0.9
 // @description  Stein World UserScript!
 // @author       Theizrael
 // @homepage     https://github.com/theizrael/Stein-UserScript-JS/raw/master/stein.user.js
 // @icon         https://github.com/theizrael/Stein-UserScript-JS/blob/master/favicons.png
 // @match        https://stein.world/
+// @include      https://github.com/theizrael/Stein-UserScript-JS/raw/master/stein.user.css
 // @include      http://stein.world/
 // @grant        unsafeWindow
 // @grant        GM_addStyle
