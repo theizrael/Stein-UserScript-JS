@@ -4,8 +4,8 @@
 // @version      0.9
 // @description  Stein World UserScript!
 // @author       Theizrael
-// @homepage     https://theizrael.com/js/stein.user.js
-// @icon         https://theizrael.com/js/favicons.png
+// @homepage     https://github.com/theizrael/Stein-UserScript-JS/raw/master/stein.user.js
+// @icon         https://github.com/theizrael/Stein-UserScript-JS/blob/master/favicons.png
 // @match        https://stein.world/
 // @include      http://stein.world/
 // @grant        unsafeWindow
