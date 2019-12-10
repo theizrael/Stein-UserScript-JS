@@ -8,7 +8,7 @@
 // @homepage     https://github.com/theizrael/Stein-UserScript-JS/
 // @icon         https://raw.github.com/theizrael/Stein-UserScript-JS/master/favicons.png
 // @updateURL    https://raw.githubusercontent.com/theizrael/Stein-UserScript-JS/master/stein.user.js
-// @downloadURL  https://raw.githubusercontent.com/theizrael/Stein-UserScript-JS/master/stein.user.js
+// @downloadURL  https://github.com/theizrael/Maximize-Video/raw/master/Maximize-Video.user.js
 // @include      https://raw.github.com/theizrael/Stein-UserScript-JS/raw/master/stein.user.css
 // @supportURL   https://github.com/theizrael/Stein-UserScript-JS/issues
 // @match        https://stein.world/
